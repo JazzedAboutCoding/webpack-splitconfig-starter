@@ -1,0 +1,20 @@
+# Build
+dist
+
+# Testing
+coverage
+
+# Dependencies
+node_modules
+
+# System
+.DS_Store
+
+# Logging
+*.log
+
+#DevOps
+.env
+
+# Editor
+.vscode
