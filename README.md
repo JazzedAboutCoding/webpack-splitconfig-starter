@@ -38,8 +38,8 @@ To get up and running with the **Webpack 4: Split-Config Starter**:
 npm install
 
 # Build
-npm run dev
-npm run prod
+npm run build:dev
+npm run build:prod
 ```
 
 ---
